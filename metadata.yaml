@@ -1,5 +1,8 @@
 _repo: Grace-Harlowe-s-Senior-Year-at-High-School_4940
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 4940-h/images/shscover.jpg
 creator:
   author:
     agent_name: Chase, Josephine
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '1598'
     url: http://www.gutenberg.org/2009/agents/1598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4940#Grace-Harlowe-s-Senior-Year-at-High-School
 gutenberg_bookshelf:
 - School Stories
 - Children's Book Series
